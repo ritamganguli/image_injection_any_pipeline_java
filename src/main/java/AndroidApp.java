@@ -22,8 +22,8 @@ import java.util.List;
 
 public class AndroidApp {
 
-    String userName = "shubhamr"; //Add username here
-    String accessKey = "dl8Y8as59i1YyGZZUeLF897aCFvIDmaKkUU1e6RgBmlgMLIIhh"; //Add accessKey here
+    String userName = "userName"; //Add username here
+    String accessKey = "accessKey"; //Add accessKey here
     String app_id = "lt://APP10160381481702492104610988";
     String grid_url = System.getenv("LT_GRID_URL") == null ? "mobile-hub.lambdatest.com" : System.getenv("LT_GRID_URL");
 
